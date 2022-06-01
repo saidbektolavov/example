@@ -20,4 +20,6 @@ h2 {
 }
 .container{
     background-image: linear-gradient(white , black);
+    height: 100vh;
+    font-family: monospace;
 }

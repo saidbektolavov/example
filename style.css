@@ -9,3 +9,15 @@ h2 {
     background-image: linear-gradient( yellow, green);    
     height: 100vh;
 }
+.login{
+    text-align: right;
+
+}
+.login a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.container{
+    background-image: linear-gradient(white , black);
+}
